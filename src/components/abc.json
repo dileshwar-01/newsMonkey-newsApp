@@ -1,0 +1,80 @@
+articles= [
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+    "title": "This hybrid smartwatch finally convinced me to ditch the Apple Watch",
+    "description": "The ScanWatch Nova is a hybrid smartwatch that looks absolutely gorgeous. And it comes with all the health and activity monitoring you'd see in a regular smartwatch.",
+    "url": "https://www.androidcentral.com/wearables/withings-scanwatch-nova-best-hybrid-smartwatch",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/Jgopwkvwb8AoSKe5XgMwre-1200-80.jpg",
+    "publishedAt": "2025-03-19T04:48:02Z",
+    "content": "I used dozens of Wear OS smartwatches over the years, but I ultimately settled on the Apple Watch because of its hassle-free usability and feature-set. My biggest annoyance with the Apple Watch is th… [+6543 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Jordan Hart",
+    "title": "Palmer Luckey's take on the 'ludicrously expensive' Vision Pro",
+    "description": "The Oculus founder discussed the \"ludicrously expensive\" Apple Vision Pro, which retails for $3,500, on a podcast.",
+    "url": "https://www.businessinsider.com/palmer-luckey-discusses-apple-vision-pro-headset-vr-2025-3",
+    "urlToImage": "https://i.insider.com/67d9b6af69253ccddf99988d?width=1200&format=jpeg",
+    "publishedAt": "2025-03-19T11:11:58Z",
+    "content": "Apple's Vision Pro is the technology of the future, according to Palmer Luckey and Tim Cook.Michael M. Santiago/Getty Images\r\n<ul><li>Palmer Luckey discusses Apple's Vision Pro, noting its high stand… [+1998 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Alistair Barr",
+    "title": "Apple is becoming a utility. That's hard for fanboys to take.",
+    "description": "Apple's utility-like evolution keeps iPhone sales steady, driving massive market value growth, even as AI delays leave fanboys disappointed.",
+    "url": "https://www.businessinsider.com/apple-becoming-utility-iphone-fanboys-2025-3",
+    "urlToImage": "https://i.insider.com/67d8c2c4b8b41a9673fae9bb?width=1200&format=jpeg",
+    "publishedAt": "2025-03-19T09:00:01Z",
+    "content": "A member of the NYPD Pipes and Drums uses an iPhone to check bagpipe pitch ahead of a St. Patrick's Day Parade.Alexi Rosenfeld/Getty Images\r\n<ul><li>iPhone sales have flatlined for a decade, and Siri… [+8170 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Amanda Goh",
+    "title": "Gwyneth Paltrow has a positive alternative to the term empty nester",
+    "description": "The Goop founder also popularized the term \"conscious uncoupling\" in 2014 when she used it to describe her separation from Chris Martin.",
+    "url": "https://www.businessinsider.com/gwyneth-paltrow-empty-nester-free-bird-parenting-apple-moses-college-2025-3",
+    "urlToImage": "https://i.insider.com/67da29ac69253ccddf99a44c?width=1200&format=jpeg",
+    "publishedAt": "2025-03-19T04:30:08Z",
+    "content": "Gwyneth Paltrow doesn't want to be called an \"empty nester.\"Marc Piasecki/Getty Images\r\n<ul><li>Gwyneth Paltrow, 52, has a penchant for reframing life transitions.</li><li>First, it was \"conscious un… [+2702 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Lara O'Reilly",
+    "title": "Another sign of a dealmaking comeback? Adtech firm Adform is exploring a sale.",
+    "description": "Deal momentum appears to be picking up in the adtech sector after a tepid couple of years. Adform offers products for advertisers and publishers.",
+    "url": "https://www.businessinsider.com/adform-sale-carnegie-adtech-dealmaking-bounceback-2025-3",
+    "urlToImage": "https://i.insider.com/67d9ca4269253ccddf999c7e?width=1200&format=jpeg",
+    "publishedAt": "2025-03-19T08:49:07Z",
+    "content": "Time to call in the movers? Adtech firm Adform is looking for a new home.John Lamparski/Getty Images for Advertising Week New York\r\n<ul><li>Adform is exploring a sale, another sign of a rebound in th… [+3048 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Quelian Sanz",
+    "title": "Aquí está el cambio más importante de los iPhone 17: Apple quiere sustituir el ‘Pro Max’",
+    "description": "El entorno de Apple se ha levantado con ganas de revolucionar el mercado. Según comentan varias fuentes relacionadas con la cadena de suministro de los iPhone 17 en China, la compañía californiana podría hacer uno de los cambios más importantes de los últimos…",
+    "url": "http://hipertextual.com/2025/03/aqui-esta-el-cambio-mas-importante-de-los-iphone-17-apple-quiere-sustituir-el-pro-max",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2025/03/iphone-17-1.jpg",
+    "publishedAt": "2025-03-19T09:37:58Z",
+    "content": "El entorno de Apple se ha levantado con ganas de revolucionar el mercado. Según comentan varias fuentes relacionadas con la cadena de suministro de los iPhone 17 en China, la compañía californiana po… [+3613 chars]"
+    }
+]
