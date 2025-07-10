@@ -29,7 +29,7 @@ const  News = (props)=>{
 
   const updateNews=async()=>{
     props.setProgress(10);
-    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`
+    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
       // this.setState({loading:true})
       setLoading(true);
       let data = await fetch(url);
